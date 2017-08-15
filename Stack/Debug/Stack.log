@@ -1,0 +1,10 @@
+﻿  main.cpp
+  GameParam.cpp
+d:\универ\курсовые работы\stack\stack\gameparam.cpp(18): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  Figure.cpp
+  Field.cpp
+d:\универ\курсовые работы\stack\stack\field.cpp(77): warning C4018: <: несоответствие типов со знаком и без знака
+d:\универ\курсовые работы\stack\stack\field.cpp(97): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Stack.vcxproj -> D:\Универ\Курсовые работы\Stack\Debug\Stack.exe
+  Stack.vcxproj -> D:\Универ\Курсовые работы\Stack\Debug\Stack.pdb (Full PDB)
